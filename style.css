@@ -1,3 +1,26 @@
-h1{
-   color:blue 
+h1 {
+    font-family: fantasy;
+    color: blue
+}
+
+body {
+    color: steelblue;
+}
+
+#seaButton {
+    Height: 50 px;
+    Width: 50 px;
+}
+
+td{
+    text-align: center;
+}
+
+td, th {
+    padding: 20px;
+    border: 2px double slategray;
+}
+
+table {
+    padding-top: 25px;
 }
